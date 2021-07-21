@@ -14,7 +14,7 @@ public class StarbucksCustomerManager extends BaseCustomerManager  {
 			super.Save(customer);
 		}
 		else {
-			System.out.println("Böyle bir kişi bulunamadı.");
+			System.out.println("BÃ¶yle bir kiÅŸi bulunamadÄ±.");
 		}
 		
 		
